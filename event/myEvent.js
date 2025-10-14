@@ -29,3 +29,5 @@ eventEmitter.emit('myEvent', 'Hello, this is a custom event!');
 
 eventEmitter.removeListener('multiCallEvent', myListener);
 eventEmitter.emit('multiCallEvent', 'This will not be logged.');
+
+
