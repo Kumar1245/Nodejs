@@ -46,3 +46,5 @@ module.exports = MyEventClass;
         chat.sendMessage('Hello, this is a chat message!');
 
         module.exports = MyEventClass;
+
+
